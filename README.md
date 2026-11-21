@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Siddhesh 👋
 
-<!--
-**SiddheshSahane-s/SiddheshSahane-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student | Python & Backend Developer
 
-Here are some ideas to get you started:
+Passionate about software development and building real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+Python • Java • C • Flask • JavaScript • HTML • CSS
+
+### 🚀 Currently Exploring
+- Data Structures & Algorithms
+- System Design
+- AI/ML
+
+### 🎯 Hobbies
+Gaming • Music • Learning New Things
+
+### 🤝 Connect
+[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
