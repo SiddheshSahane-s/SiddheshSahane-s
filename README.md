@@ -16,4 +16,4 @@ Python • Java • C • Flask • JavaScript • HTML • CSS
 Gaming • Music • Learning New Things
 
 ### 🤝 Connect
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn]((https://www.linkedin.com/in/siddhesh-sahane-5795493a5/))
