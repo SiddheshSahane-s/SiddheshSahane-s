@@ -7,10 +7,10 @@ Passionate about software development and building real-world solutions.
 
 ### 💻 Tech Stack
 
-- **Languages:** Python, Java, C, JavaScript
+- **Languages:** Python, Java, C
 - **Backend:** Flask, SQLAlchemy ORM
 - **Database:** SQLite
-- **Web Development:** HTML, CSS, REST APIs
+- **Web Development:** HTML, REST APIs
 - **Data & AI/ML:** NumPy, Pandas
 
 
