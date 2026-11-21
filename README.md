@@ -4,8 +4,15 @@ Computer Engineering Student | Python & Backend Developer
 
 Passionate about software development and building real-world solutions.
 
+
 ### 💻 Tech Stack
-Python • Java • C • Flask • JavaScript • HTML • CSS
+
+- **Languages:** Python, Java, C, JavaScript
+- **Backend:** Flask, SQLAlchemy ORM
+- **Database:** SQLite
+- **Web Development:** HTML, CSS, REST APIs
+- **Data & AI/ML:** NumPy, Pandas
+
 
 ### 🚀 Currently Exploring
 - Data Structures & Algorithms
@@ -15,5 +22,7 @@ Python • Java • C • Flask • JavaScript • HTML • CSS
 ### 🎯 Hobbies
 Gaming • Music • Learning New Things
 
-### 🤝 Connect
-[LinkedIn]((https://www.linkedin.com/in/siddhesh-sahane-5795493a5/))
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhesh-sahane-5795493a5/)
